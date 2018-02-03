@@ -1,5 +1,6 @@
-#Learn Bootstrap 4 Final in 2018 with our Free Crash Course
-###BY GARY SIMON - JAN 20, 2018
+# Learn Bootstrap 4 Final in 2018 with our Free Crash Course
+
+### BY GARY SIMON - JAN 20, 2018
 
 
 Last year, I released a Bootstrap 4 Course, but it was in alpha back then. Literally 2 days ago, (January 18), Bootstrap 4 released to its full 4.0.0 version.
